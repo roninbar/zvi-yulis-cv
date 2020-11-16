@@ -19,23 +19,23 @@
 
 | Period    | Program                    | Institution         |
 |-----------|----------------------------|---------------------|
-| 2019-2020 | Full Stack Web Development | John Bryce Academy  |
+| 2019-2020 | Full Stack Web Development | [John Bryce Academy](https://www.facebook.com/johnbryce.co.il/)  |
 
 ---
-### Technologies covered:
+### Technologies covered in this course:
 * Programming Languages: &bull; JavaScript &bull; TypeScript &bull; PHP
 * Client-side: &bull; HTML &bull; CSS &bull; Bootstrap &bull; Material-UI &bull; jQuery &bull; React &bull; Redux &bull; Angular
 * Server-side: &bull; Node.js &bull; Express.js &bull; Passport.js
 * Databases: &bull; MySQL &bull; MongoDB
-* Projects:
+### Projects:
   1. JavaScript + HTML5 + CSS3
   2. jQuery + Ajax
   3. React + Node.js + MySQL
   4. Angular + Node.js + MongoDB
 ---
-|           |                            |                     |
+| Period    | Program                    | Institution         |
 |-----------|----------------------------|---------------------|
-| 2009-2010 | Preparatory Program        | University of Haifa |
+| 2009-2010 | Preparatory Program        | [University of Haifa](https://www.haifa.ac.il/?lang=en) |
 ---
 
 ## Experience
