@@ -8,7 +8,6 @@
 | Phone     | +972 (52) 677-7997   |
 | Email     | zviyulis@gmail.com   |
 | LinkedIn  | https://linkedin.com/in/zvi-yulis-9133a0132 |
-|           |                      |
 
 ## About
 
@@ -20,10 +19,9 @@
 | Period    | Program                    | Institution         |
 |-----------|----------------------------|---------------------|
 | 2019-2020 | Full Stack Web Development | [John Bryce Academy](https://www.facebook.com/johnbryce.co.il/)  |
-
 ---
 ### Technologies covered in this course:
-* Programming Languages: &bull; JavaScript &bull; TypeScript &bull; PHP
+* Programming Languages: &bull; JavaScript (ES5, ES6, ES7) &bull; TypeScript &bull; PHP
 * Client-side: &bull; HTML &bull; CSS &bull; Bootstrap &bull; Material-UI &bull; jQuery &bull; React &bull; Redux &bull; Angular
 * Server-side: &bull; Node.js &bull; Express.js &bull; Passport.js
 * Databases: &bull; MySQL &bull; MongoDB
@@ -36,6 +34,7 @@
 | Period    | Program                    | Institution         |
 |-----------|----------------------------|---------------------|
 | 2009-2010 | Preparatory Program        | [University of Haifa](https://www.haifa.ac.il/?lang=en) |
+
 ---
 
 ## Experience
@@ -50,6 +49,8 @@
 2007-2009 | [Sonol Energy](https://www.sonolenergy.com/) | Gas Station Manager
 2006-2007 | [Academon (Bookstore)](https://www.facebook.com/academon/) | Warehouse Operator
 2004-2006 | [Graphos (Stationery Store)](https://www.facebook.com/graphos.co.il/) | Warehouse Manager
+
+---
 
 ## Languages
 * Hebrew - Native proficiency
