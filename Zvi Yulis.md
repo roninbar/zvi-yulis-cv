@@ -9,10 +9,14 @@
 | Email     | zviyulis@gmail.com   |
 | LinkedIn  | https://linkedin.com/in/zvi-yulis-9133a0132 |
 
+---
+
 ## About
 
 * Full stack programmer with ability for independent working and learning as well as team work.
 * (להשלים)
+
+---
 
 ## Education
 
