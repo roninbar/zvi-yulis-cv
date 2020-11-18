@@ -49,11 +49,11 @@
 2009-Present | [Partner Communication](https://www.partner.co.il/) | TV Infrastructure Expert | Overall responsibility for operating the TV infrastructure in the company, including systems, servers and databases.
 | | | | Routine work with suppliers in Israel and abroad, including troubleshooting and adoption of new software versions.
 | | | | Leading and following up on TV-related projects including introduction and adoption of new systems in the company.
-| | | Troubleshooting Expert | Report generation and analysis, presentations, expediting professional procedures and providing professional solutions to managers.
+| | | Troubleshooting Expert | Generating and analyzing reports, preparing presentations, promoting technical procedures and providing technical solutions to managers.
 | | | | Troubleshooting large-scale and small-scale problems and participating in technical meetings.
-| | | Credit Control Team Leader | Reporting to the Fraud department, monitoring unusual activities and usage patterns by subscribers.
-| | | | Auditing usage and billing, providing professional knowledge to call centers, expediting procedures and overseeing their adoption in the field, working with different departments in the company worldwide.
-| | | Customer Service Manager | Providing technical solutions to reps, adopting procedures in the team, striving to meet goals, conducting employee performance appraisals, assisting the team leader.
+| | | Credit Control Team Leader | Reporting to the Fraud department, monitoring unusual activities and usage patterns by subscribers. Leading a team of 8 workers while defining tasks, expediting procedures, generating reports and defining goals, resposiblity for meeting said goals and working with various interfaces in the company.
+| | | | Auditing usage and billing, providing technical knowledge to call centers, promoting procedures and overseeing their adoption in the field, working with different departments in the company worldwide.
+| | | Customer Service Manager | Providing technical solutions to reps, adopting procedures in the team, responsibility for meeting goals, conducting employee performance appraisals, assisting the team leader.
 | | | Customer Service Rep (Refund Team) | Answering customer calls and generating refund reports.
 2007-2009 | [Sonol Energy](https://www.sonolenergy.com/) | Gas Station Manager | Managing the attendants and working with customers and suppliers.
 2006-2007 | [Academon (Bookstore)](https://www.facebook.com/academon/) | Warehouse Operator | Intake and return of merchandise, working with suppliers and with other branches in the chain.
