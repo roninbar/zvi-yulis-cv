@@ -25,11 +25,11 @@
 | 2019-2020 | Full Stack Web Development | [John Bryce Academy](https://www.facebook.com/johnbryce.co.il/)  |
 
 ### Technologies covered in this course:
-* Programming Languages: &bull; JavaScript (ES5, ES6, ES7) &bull; TypeScript &bull; PHP
-* Client-side: &bull; HTML &bull; CSS &bull; Bootstrap &bull; jQuery &bull; React &bull; Redux &bull; Material-UI &bull; Angular
-* Server-side: &bull; Node.js &bull; Express.js &bull; Passport.js &bull; socket.io
-* Databases: &bull; MySQL &bull; MongoDB
-* Version control: &bull; Git 
+* **Programming Languages**: &bull; JavaScript (ES5, ES6, ES7) &bull; TypeScript &bull; PHP
+* **Client-side**: &bull; HTML &bull; CSS &bull; Bootstrap &bull; jQuery &bull; React &bull; Redux &bull; Material-UI &bull; Angular
+* **Server-side**: &bull; Node.js &bull; Express.js &bull; Passport.js &bull; socket.io
+* **Databases**: &bull; MySQL &bull; MongoDB
+* **Version control**: &bull; Git 
 ### Projects:
   1. JavaScript + HTML5 + CSS3
   1. jQuery + Ajax
@@ -53,7 +53,7 @@
 | | | | Troubleshooting large-scale and small-scale problems and participating in technical meetings.
 | | | Credit Control Team Leader | Reporting to the Fraud department, monitoring unusual activities and usage patterns by subscribers.
 | | | | Auditing usage and billing, providing professional knowledge to call centers, expediting procedures and overseeing their adoption in the field, working with different departments in the company worldwide.
-| | | Customer Service Manager | Providing professional solutions to reps, adopting various procedures in the team, striving to meet goals, conducting employee performance appraisals, assisting the team leader.
+| | | Customer Service Manager | Providing technical solutions to reps, adopting procedures in the team, striving to meet goals, conducting employee performance appraisals, assisting the team leader.
 | | | Customer Service Rep (Refund Team) | Answering customer calls and generating refund reports.
 2007-2009 | [Sonol Energy](https://www.sonolenergy.com/) | Gas Station Manager | Managing the attendants and working with customers and suppliers.
 2006-2007 | [Academon (Bookstore)](https://www.facebook.com/academon/) | Warehouse Operator | Intake and return of merchandise, working with suppliers and with other branches in the chain.
