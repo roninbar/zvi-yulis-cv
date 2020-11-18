@@ -50,14 +50,14 @@
 | | | | Routine work with suppliers in Israel and abroad, including troubleshooting and adoption of new software versions.
 | | | | Leading and following up on TV-related projects including introduction and adoption of new systems in the company.
 | | | Troubleshooting Expert | Report generation and analysis, presentations, expediting professional procedures and providing professional solutions to managers.
-| | | | Troubleshooting large-scale and small-scale problems and `representing the company`
+| | | | Troubleshooting large-scale and small-scale problems and participating in technical meetings.
 | | | Credit Control Team Leader | Reporting to the Fraud department, monitoring unusual activities and usage patterns by subscribers.
 | | | | Auditing usage and billing, providing professional knowledge to call centers, expediting procedures and overseeing their adoption in the field, working with different departments in the company worldwide.
 | | | Customer Service Manager | Providing professional solutions to reps, adopting various procedures in the team, striving to meet goals, conducting employee performance appraisals, assisting the team leader.
 | | | Customer Service Rep (Refund Team) | Answering customer calls and generating refund reports.
 2007-2009 | [Sonol Energy](https://www.sonolenergy.com/) | Gas Station Manager | Managing the attendants and working with customers and suppliers.
 2006-2007 | [Academon (Bookstore)](https://www.facebook.com/academon/) | Warehouse Operator | Intake and return of merchandise, working with suppliers and other branches in the chain.
-2004-2006 | [Graphos (Stationery Store)](https://www.facebook.com/graphos.co.il/) | Warehouse Manager | Intake of merchandise, working with suppliers, keeping track of inventories, (קליטת חשבוניות?), generating reports and setting up seasonal fairs, including logistic responsibility.
+2004-2006 | [Graphos (Stationery Store)](https://www.facebook.com/graphos.co.il/) | Warehouse Manager | Intake of merchandise, working with suppliers, keeping track of inventories, taking in invoices, generating reports and setting up seasonal fairs, including logistic responsibility.
 
 ---
 
