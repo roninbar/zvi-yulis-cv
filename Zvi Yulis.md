@@ -62,6 +62,7 @@
 ---
 
 ## Languages
+
 * Hebrew - Native proficiency
 * English - High proficiency
 
