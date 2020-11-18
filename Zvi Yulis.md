@@ -1,3 +1,9 @@
+<style>
+thead {
+  visibility: hidden;
+}
+</style>
+
 # Zvi Yulis
 
 ## Contact Info
