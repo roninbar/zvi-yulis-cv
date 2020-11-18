@@ -2,7 +2,7 @@
 
 ## Contact Info
 
-|           |                      |
+| []()      |                      |
 |-----------|----------------------|
 | Residence | Rosh Ha'Ayin, Israel |
 | Phone     | +972 (52) 677-7997   |
