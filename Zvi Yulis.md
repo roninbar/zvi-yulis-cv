@@ -31,10 +31,10 @@
 * Databases: &bull; MySQL &bull; MongoDB
 * Additional technologies: &bull; Git &bull; socket.io
 ### Projects:
+  1. jQuery + Ajax
+  1. React + Node.js + MySQL
+  1. Angular + Node.js + MongoDB
   1. JavaScript + HTML5 + CSS3
-  2. jQuery + Ajax
-  3. React + Node.js + MySQL
-  4. Angular + Node.js + MongoDB
 
 | Period    | Program                    | Institution         |
 |-----------|----------------------------|---------------------|
