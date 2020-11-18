@@ -27,14 +27,14 @@
 ### Technologies covered in this course:
 * Programming Languages: &bull; JavaScript (ES5, ES6, ES7) &bull; TypeScript &bull; PHP
 * Client-side: &bull; HTML &bull; CSS &bull; Bootstrap &bull; Material-UI &bull; jQuery &bull; React &bull; Redux &bull; Angular
-* Server-side: &bull; Node.js &bull; Express.js &bull; Passport.js
+* Server-side: &bull; Node.js &bull; Express.js &bull; Passport.js &bull; socket.io
 * Databases: &bull; MySQL &bull; MongoDB
-* Additional technologies: &bull; Git &bull; socket.io
+* Version control: &bull; Git 
 ### Projects:
-  1. jQuery + Ajax
-  1. React + Node.js + MySQL
-  1. Angular + Node.js + MongoDB
   1. JavaScript + HTML5 + CSS3
+  1. jQuery + Ajax
+  1. React + Node + MySQL
+  1. Angular + Node + MongoDB
 
 | Period    | Program                    | Institution         |
 |-----------|----------------------------|---------------------|
@@ -56,7 +56,7 @@
 | | | Customer Service Manager | Providing professional solutions to reps, adopting various procedures in the team, striving to meet goals, conducting employee performance appraisals, assisting the team leader.
 | | | Customer Service Rep (Refund Team) | Answering customer calls and generating refund reports.
 2007-2009 | [Sonol Energy](https://www.sonolenergy.com/) | Gas Station Manager | Managing the attendants and working with customers and suppliers.
-2006-2007 | [Academon (Bookstore)](https://www.facebook.com/academon/) | Warehouse Operator | Intake and return of merchandise, working with suppliers and other branches in the chain.
+2006-2007 | [Academon (Bookstore)](https://www.facebook.com/academon/) | Warehouse Operator | Intake and return of merchandise, working with suppliers and with other branches in the chain.
 2004-2006 | [Graphos (Stationery Store)](https://www.facebook.com/graphos.co.il/) | Warehouse Manager | Intake of merchandise, working with suppliers, keeping track of inventories, taking in invoices, generating reports and setting up seasonal fairs, including logistic responsibility.
 
 ---
