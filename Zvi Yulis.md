@@ -26,7 +26,7 @@
 
 ### Technologies covered in this course:
 * Programming Languages: &bull; JavaScript (ES5, ES6, ES7) &bull; TypeScript &bull; PHP
-* Client-side: &bull; HTML &bull; CSS &bull; Bootstrap &bull; Material-UI &bull; jQuery &bull; React &bull; Redux &bull; Angular
+* Client-side: &bull; HTML &bull; CSS &bull; Bootstrap &bull; jQuery &bull; React &bull; Redux &bull; Material-UI &bull; Angular
 * Server-side: &bull; Node.js &bull; Express.js &bull; Passport.js &bull; socket.io
 * Databases: &bull; MySQL &bull; MongoDB
 * Version control: &bull; Git 
